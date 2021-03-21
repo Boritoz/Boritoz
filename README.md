@@ -3,7 +3,7 @@
 ```js
 const Irox = {
     age: 13,
-    from: "Paris",
+    from: "Belgique",
     Discord: "Boritoz#9179",
     technologies: {
         backend: ["NodeJS"],
