@@ -1,16 +1,21 @@
-### Hi there 👋
+![Boritoz stats](https://github-readme-stats.vercel.app/api?username=Boritoz&show_icons=true&theme=tokyonight)
 
-<!--
-**Boritoz/Boritoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const Irox = {
+    age: 13,
+    from: "Paris",
+    Discord: "Boritoz#9179",
+    technologies: {
+        backend: ["NodeJS"],
+        database: ["MongoDB"],
+    },
+    languages: ["HTML", "CSS", "JavaScript"]
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Boritoz?tab=followers">
+  <img src="https://img.shields.io/github/followers/Boritoz">
+</a>
+<a href="https://github.com/Boritoz">
+   <img src="https://komarev.com/ghpvc/?username=Boritoz">
+</a>
