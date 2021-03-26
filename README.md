@@ -1,7 +1,7 @@
 ![Boritoz stats](https://github-readme-stats.vercel.app/api?username=Boritoz&show_icons=true&theme=tokyonight)
 
 ```js
-const Irox = {
+const Boritoz = {
     age: 13,
     from: "Belgique",
     Discord: "Boritoz#9179",
