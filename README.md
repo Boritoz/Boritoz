@@ -4,7 +4,7 @@
 const Boritoz = {
     age: 13,
     from: "Belgique",
-    Discord: "Boritoz#9179",
+    Discord: "Will.#5580",
     technologies: {
         backend: ["NodeJS"],
         database: ["MongoDB"],
